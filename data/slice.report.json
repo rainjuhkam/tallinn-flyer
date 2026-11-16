@@ -1,0 +1,2095 @@
+{
+ "stats": {
+  "h": {
+   "default": 91,
+   "tag": 218,
+   "levels": 112,
+   "parent": 18
+  },
+  "r": {
+   "heuristic": 229,
+   "tag": 210
+  },
+  "c": {
+   "palette": 264,
+   "tag": 175
+  },
+  "rc": {
+   "palette": 208,
+   "material": 64,
+   "tag": 167
+  }
+ },
+ "lowConfidence": [
+  {
+   "id": 26900960,
+   "name": "",
+   "A": 1217,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.5
+  },
+  {
+   "id": 28129672,
+   "name": "",
+   "A": 1069,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 200852813,
+   "name": "",
+   "A": 905,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 28129819,
+   "name": "",
+   "A": 816,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.1
+  },
+  {
+   "id": 200675336,
+   "name": "",
+   "A": 743,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 14
+  },
+  {
+   "id": 26885940,
+   "name": "Püha Katariina kirik",
+   "A": 735,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 11.5
+  },
+  {
+   "id": 200631090,
+   "name": "",
+   "A": 698,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.1
+  },
+  {
+   "id": 26886734,
+   "name": "",
+   "A": 661,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 20.5
+  },
+  {
+   "id": 200852817,
+   "name": "",
+   "A": 654,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.9
+  },
+  {
+   "id": -48716,
+   "name": "",
+   "A": 644,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.9
+  },
+  {
+   "id": 28187544,
+   "name": "",
+   "A": 634,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 16.7
+  },
+  {
+   "id": 200644972,
+   "name": "",
+   "A": 617,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 17.5
+  },
+  {
+   "id": 201040633,
+   "name": "",
+   "A": 610,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 26873855,
+   "name": "",
+   "A": 592,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.7
+  },
+  {
+   "id": 200645026,
+   "name": "",
+   "A": 580,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 200644973,
+   "name": "",
+   "A": 576,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.7
+  },
+  {
+   "id": 134801484,
+   "name": "",
+   "A": 574,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 17.5
+  },
+  {
+   "id": 28132818,
+   "name": "",
+   "A": 561,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 16.5
+  },
+  {
+   "id": 200644984,
+   "name": "",
+   "A": 552,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 16.5
+  },
+  {
+   "id": 200644985,
+   "name": "",
+   "A": 540,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 19.5
+  },
+  {
+   "id": 200645033,
+   "name": "",
+   "A": 538,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.2
+  },
+  {
+   "id": 26902721,
+   "name": "",
+   "A": 530,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.3
+  },
+  {
+   "id": 26889779,
+   "name": "",
+   "A": 525,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.2
+  },
+  {
+   "id": 200644989,
+   "name": "",
+   "A": 521,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.9
+  },
+  {
+   "id": 200644968,
+   "name": "",
+   "A": 480,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.8
+  },
+  {
+   "id": 200644981,
+   "name": "",
+   "A": 475,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.5
+  },
+  {
+   "id": 26899222,
+   "name": "",
+   "A": 453,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.6
+  },
+  {
+   "id": 200644966,
+   "name": "",
+   "A": 453,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 10.1
+  },
+  {
+   "id": 200228190,
+   "name": "",
+   "A": 432,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 10.5
+  },
+  {
+   "id": 26887861,
+   "name": "",
+   "A": 428,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.5
+  },
+  {
+   "id": 64299238,
+   "name": "",
+   "A": 425,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.9
+  },
+  {
+   "id": 200645018,
+   "name": "",
+   "A": 425,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.1
+  },
+  {
+   "id": 132443972,
+   "name": "",
+   "A": 422,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 26885902,
+   "name": "",
+   "A": 418,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 26889773,
+   "name": "",
+   "A": 411,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.4
+  },
+  {
+   "id": 26902621,
+   "name": "",
+   "A": 387,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.5
+  },
+  {
+   "id": 28155327,
+   "name": "",
+   "A": 380,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.2
+  },
+  {
+   "id": 64299230,
+   "name": "",
+   "A": 379,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.5
+  },
+  {
+   "id": 200644975,
+   "name": "",
+   "A": 378,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.5
+  },
+  {
+   "id": 200631120,
+   "name": "",
+   "A": 374,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 26885938,
+   "name": "",
+   "A": 370,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 8.4
+  },
+  {
+   "id": 201040619,
+   "name": "",
+   "A": 366,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 14.5
+  },
+  {
+   "id": 201040644,
+   "name": "",
+   "A": 362,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.5
+  },
+  {
+   "id": 200645020,
+   "name": "",
+   "A": 355,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 26874428,
+   "name": "",
+   "A": 352,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.8
+  },
+  {
+   "id": 64299239,
+   "name": "",
+   "A": 352,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 26899371,
+   "name": "",
+   "A": 348,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.7
+  },
+  {
+   "id": 26885942,
+   "name": "",
+   "A": 341,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.5
+  },
+  {
+   "id": 200944350,
+   "name": "",
+   "A": 341,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.5
+  },
+  {
+   "id": 1228901199,
+   "name": "",
+   "A": 337,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 16
+  },
+  {
+   "id": 26902827,
+   "name": "",
+   "A": 331,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 18.5
+  },
+  {
+   "id": 200644964,
+   "name": "",
+   "A": 326,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.7
+  },
+  {
+   "id": 26885876,
+   "name": "",
+   "A": 324,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 15.6
+  },
+  {
+   "id": 200644970,
+   "name": "",
+   "A": 324,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 19.5
+  },
+  {
+   "id": 200634172,
+   "name": "",
+   "A": 320,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 16
+  },
+  {
+   "id": 201040693,
+   "name": "",
+   "A": 314,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 11.9
+  },
+  {
+   "id": 200644962,
+   "name": "",
+   "A": 309,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.5
+  },
+  {
+   "id": 200644978,
+   "name": "",
+   "A": 292,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 10.5
+  },
+  {
+   "id": 1197510167,
+   "name": "",
+   "A": 280,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 28187542,
+   "name": "",
+   "A": 276,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.8
+  },
+  {
+   "id": 26873930,
+   "name": "",
+   "A": 272,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 14.3
+  },
+  {
+   "id": 28132820,
+   "name": "",
+   "A": 272,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13.6
+  },
+  {
+   "id": 28087750,
+   "name": "",
+   "A": 271,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 10
+  },
+  {
+   "id": 26901158,
+   "name": "",
+   "A": 270,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 8.5
+  },
+  {
+   "id": 134801497,
+   "name": "",
+   "A": 266,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 11.5
+  },
+  {
+   "id": -7239857,
+   "name": "",
+   "A": 260,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 200645000,
+   "name": "",
+   "A": 259,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 15.9
+  },
+  {
+   "id": 28132817,
+   "name": "",
+   "A": 259,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 201040637,
+   "name": "",
+   "A": 256,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.5
+  },
+  {
+   "id": 64299233,
+   "name": "",
+   "A": 255,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 5.9
+  },
+  {
+   "id": 201040624,
+   "name": "",
+   "A": 254,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.7
+  },
+  {
+   "id": 200522985,
+   "name": "",
+   "A": 251,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.8
+  },
+  {
+   "id": 200675344,
+   "name": "",
+   "A": 241,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 64299236,
+   "name": "",
+   "A": 234,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.3
+  },
+  {
+   "id": 1213626332,
+   "name": "",
+   "A": 230,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.8
+  },
+  {
+   "id": 200645028,
+   "name": "",
+   "A": 228,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 15.5
+  },
+  {
+   "id": 28131870,
+   "name": "",
+   "A": 224,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 14.5
+  },
+  {
+   "id": 200644965,
+   "name": "",
+   "A": 224,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.5
+  },
+  {
+   "id": 26873875,
+   "name": "Tallinna Rüütliordude Muuseum",
+   "A": 222,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.7
+  },
+  {
+   "id": 200645041,
+   "name": "",
+   "A": 217,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.1
+  },
+  {
+   "id": 134801496,
+   "name": "",
+   "A": 214,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.5
+  },
+  {
+   "id": 26885886,
+   "name": "",
+   "A": 212,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 16.7
+  },
+  {
+   "id": 26885888,
+   "name": "",
+   "A": 208,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 17.8
+  },
+  {
+   "id": 493140843,
+   "name": "",
+   "A": 205,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 37371868,
+   "name": "",
+   "A": 204,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 15.5
+  },
+  {
+   "id": 26886798,
+   "name": "",
+   "A": 203,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.8
+  },
+  {
+   "id": 200645036,
+   "name": "",
+   "A": 195,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.6
+  },
+  {
+   "id": 200523007,
+   "name": "",
+   "A": 188,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 7.6
+  },
+  {
+   "id": 200645032,
+   "name": "",
+   "A": 188,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.9
+  },
+  {
+   "id": 64299235,
+   "name": "",
+   "A": 186,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.7
+  },
+  {
+   "id": 26885960,
+   "name": "",
+   "A": 185,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 16
+  },
+  {
+   "id": 47069460,
+   "name": "",
+   "A": 185,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 201040742,
+   "name": "",
+   "A": 180,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.5
+  },
+  {
+   "id": 28131872,
+   "name": "",
+   "A": 174,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.8
+  },
+  {
+   "id": 1228901197,
+   "name": "",
+   "A": 174,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 16
+  },
+  {
+   "id": 1228089243,
+   "name": "",
+   "A": 173,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 3.2
+  },
+  {
+   "id": 200523002,
+   "name": "",
+   "A": 168,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.4
+  },
+  {
+   "id": 28087746,
+   "name": "",
+   "A": 165,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13.4
+  },
+  {
+   "id": 200634161,
+   "name": "",
+   "A": 165,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 16
+  },
+  {
+   "id": 26902797,
+   "name": "",
+   "A": 161,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.5
+  },
+  {
+   "id": 134801474,
+   "name": "",
+   "A": 154,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 8
+  },
+  {
+   "id": 1228078222,
+   "name": "",
+   "A": 153,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 26903476,
+   "name": "",
+   "A": 152,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.7
+  },
+  {
+   "id": 1191597019,
+   "name": "Niguliste kirik",
+   "A": 152,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 2.5
+  },
+  {
+   "id": 26885828,
+   "name": "",
+   "A": 151,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 7.8
+  },
+  {
+   "id": 249178890,
+   "name": "",
+   "A": 151,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 200228315,
+   "name": "",
+   "A": 150,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.5
+  },
+  {
+   "id": 200644998,
+   "name": "",
+   "A": 149,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.9
+  },
+  {
+   "id": 28383514,
+   "name": "",
+   "A": 145,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.2
+  },
+  {
+   "id": 200645021,
+   "name": "",
+   "A": 143,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 10.1
+  },
+  {
+   "id": 64299237,
+   "name": "",
+   "A": 140,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 13.1
+  },
+  {
+   "id": 200645013,
+   "name": "",
+   "A": 139,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.7
+  },
+  {
+   "id": 201040751,
+   "name": "",
+   "A": 137,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.5
+  },
+  {
+   "id": 1197344427,
+   "name": "",
+   "A": 137,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 28087752,
+   "name": "",
+   "A": 136,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.4
+  },
+  {
+   "id": 200921868,
+   "name": "",
+   "A": 135,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 7
+  },
+  {
+   "id": 200645011,
+   "name": "",
+   "A": 131,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.6
+  },
+  {
+   "id": 201040726,
+   "name": "",
+   "A": 130,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 15.4
+  },
+  {
+   "id": 200228311,
+   "name": "",
+   "A": 125,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.6
+  },
+  {
+   "id": -7493266,
+   "name": "",
+   "A": 124,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.5
+  },
+  {
+   "id": 200631087,
+   "name": "",
+   "A": 123,
+   "hsrc": "default",
+   "rsrc": "tag",
+   "rs": "gabled",
+   "h": 10
+  },
+  {
+   "id": 28087755,
+   "name": "",
+   "A": 121,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.6
+  },
+  {
+   "id": 28132815,
+   "name": "",
+   "A": 121,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.9
+  },
+  {
+   "id": 200523014,
+   "name": "",
+   "A": 120,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.9
+  },
+  {
+   "id": 28129676,
+   "name": "",
+   "A": 118,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.3
+  },
+  {
+   "id": 26885890,
+   "name": "",
+   "A": 115,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 200644976,
+   "name": "",
+   "A": 114,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13
+  },
+  {
+   "id": 26902763,
+   "name": "",
+   "A": 108,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.4
+  },
+  {
+   "id": 28132816,
+   "name": "",
+   "A": 107,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 2.5
+  },
+  {
+   "id": 201040711,
+   "name": "",
+   "A": 105,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 3
+  },
+  {
+   "id": 201040766,
+   "name": "",
+   "A": 103,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.5
+  },
+  {
+   "id": 200523000,
+   "name": "",
+   "A": 102,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.4
+  },
+  {
+   "id": 26873808,
+   "name": "",
+   "A": 100,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.7
+  },
+  {
+   "id": 28187546,
+   "name": "",
+   "A": 100,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13
+  },
+  {
+   "id": 26889741,
+   "name": "",
+   "A": 99,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.7
+  },
+  {
+   "id": 200631118,
+   "name": "",
+   "A": 95,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13
+  },
+  {
+   "id": 28132835,
+   "name": "",
+   "A": 94,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.3
+  },
+  {
+   "id": 201040764,
+   "name": "",
+   "A": 94,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.4
+  },
+  {
+   "id": 26873852,
+   "name": "",
+   "A": 94,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 28129670,
+   "name": "",
+   "A": 92,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13.1
+  },
+  {
+   "id": 28129818,
+   "name": "",
+   "A": 89,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.2
+  },
+  {
+   "id": 1228078223,
+   "name": "",
+   "A": 88,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 16
+  },
+  {
+   "id": 28087749,
+   "name": "",
+   "A": 84,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.8
+  },
+  {
+   "id": 1228901198,
+   "name": "",
+   "A": 83,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 16
+  },
+  {
+   "id": 201040652,
+   "name": "",
+   "A": 81,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 10
+  },
+  {
+   "id": 1229726938,
+   "name": "",
+   "A": 79,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 200631123,
+   "name": "",
+   "A": 78,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 11.1
+  },
+  {
+   "id": 200522990,
+   "name": "",
+   "A": 77,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.2
+  },
+  {
+   "id": 28087754,
+   "name": "",
+   "A": 76,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.8
+  },
+  {
+   "id": 26902849,
+   "name": "",
+   "A": 73,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 2.5
+  },
+  {
+   "id": 200634158,
+   "name": "",
+   "A": 73,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 15.6
+  },
+  {
+   "id": 28087751,
+   "name": "",
+   "A": 72,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 134801489,
+   "name": "",
+   "A": 71,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 2.5
+  },
+  {
+   "id": 200523001,
+   "name": "",
+   "A": 68,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.9
+  },
+  {
+   "id": 1197510166,
+   "name": "",
+   "A": 68,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 230401831,
+   "name": "",
+   "A": 67,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 14.3
+  },
+  {
+   "id": 28155329,
+   "name": "",
+   "A": 66,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 5.6
+  },
+  {
+   "id": 200522991,
+   "name": "",
+   "A": 65,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.4
+  },
+  {
+   "id": 200522996,
+   "name": "",
+   "A": 65,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13.3
+  },
+  {
+   "id": 28131876,
+   "name": "",
+   "A": 62,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 7.6
+  },
+  {
+   "id": 28131877,
+   "name": "",
+   "A": 61,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 1229726939,
+   "name": "",
+   "A": 59,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.4
+  },
+  {
+   "id": 64299234,
+   "name": "",
+   "A": 59,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 3.2
+  },
+  {
+   "id": -4061225,
+   "name": "Raekoda",
+   "A": 59,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 13.5
+  },
+  {
+   "id": 1228901196,
+   "name": "",
+   "A": 58,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 16
+  },
+  {
+   "id": 26875416,
+   "name": "",
+   "A": 56,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.4
+  },
+  {
+   "id": 200522999,
+   "name": "",
+   "A": 56,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.7
+  },
+  {
+   "id": 200522998,
+   "name": "",
+   "A": 55,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 1228901202,
+   "name": "",
+   "A": 54,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 20.3
+  },
+  {
+   "id": 26889751,
+   "name": "",
+   "A": 52,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 11
+  },
+  {
+   "id": 64299228,
+   "name": "",
+   "A": 52,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.7
+  },
+  {
+   "id": 201040689,
+   "name": "",
+   "A": 52,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 1229501556,
+   "name": "",
+   "A": 52,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 16.1
+  },
+  {
+   "id": 28087748,
+   "name": "",
+   "A": 51,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 14.1
+  },
+  {
+   "id": 28131875,
+   "name": "",
+   "A": 50,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.5
+  },
+  {
+   "id": 26886796,
+   "name": "",
+   "A": 49,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 7.3
+  },
+  {
+   "id": 28129674,
+   "name": "",
+   "A": 49,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.6
+  },
+  {
+   "id": 200634176,
+   "name": "",
+   "A": 48,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.9
+  },
+  {
+   "id": 28131874,
+   "name": "",
+   "A": 47,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 5.9
+  },
+  {
+   "id": 430399374,
+   "name": "",
+   "A": 47,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 28132834,
+   "name": "",
+   "A": 45,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 14.3
+  },
+  {
+   "id": 200645007,
+   "name": "",
+   "A": 45,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.6
+  },
+  {
+   "id": 1228078218,
+   "name": "",
+   "A": 42,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 12.8
+  },
+  {
+   "id": 200645001,
+   "name": "",
+   "A": 41,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.8
+  },
+  {
+   "id": 1229501553,
+   "name": "",
+   "A": 38,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 26873872,
+   "name": "",
+   "A": 36,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.4
+  },
+  {
+   "id": 200645017,
+   "name": "",
+   "A": 36,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 11.6
+  },
+  {
+   "id": 1228078221,
+   "name": "",
+   "A": 36,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 19.2
+  },
+  {
+   "id": 26885894,
+   "name": "",
+   "A": 33,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 9.6
+  },
+  {
+   "id": 28132839,
+   "name": "",
+   "A": 32,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.4
+  },
+  {
+   "id": 214474169,
+   "name": "",
+   "A": 31,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 2.5
+  },
+  {
+   "id": 228488697,
+   "name": "",
+   "A": 31,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 9.6
+  },
+  {
+   "id": 28087756,
+   "name": "",
+   "A": 30,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": -7493266,
+   "name": "",
+   "A": 29,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 201040667,
+   "name": "Winkel",
+   "A": 28,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 28123586,
+   "name": "",
+   "A": 26,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 1212188613,
+   "name": "",
+   "A": 26,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.2
+  },
+  {
+   "id": 28087747,
+   "name": "",
+   "A": 25,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 1197344426,
+   "name": "",
+   "A": 24,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 14.5
+  },
+  {
+   "id": 28087760,
+   "name": "",
+   "A": 23,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 3.5
+  },
+  {
+   "id": 201040683,
+   "name": "",
+   "A": 23,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 1207807788,
+   "name": "",
+   "A": 23,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 15.2
+  },
+  {
+   "id": 28087753,
+   "name": "",
+   "A": 22,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 3.5
+  },
+  {
+   "id": 28087757,
+   "name": "",
+   "A": 22,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 28132838,
+   "name": "",
+   "A": 22,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 28132840,
+   "name": "",
+   "A": 22,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 3.5
+  },
+  {
+   "id": 200228272,
+   "name": "",
+   "A": 22,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 3.5
+  },
+  {
+   "id": 200645005,
+   "name": "",
+   "A": 22,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": -4061224,
+   "name": "Raekoda",
+   "A": 21,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 30.3
+  },
+  {
+   "id": -4061229,
+   "name": "Raekoda",
+   "A": 21,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 33.3
+  },
+  {
+   "id": 200634169,
+   "name": "",
+   "A": 20,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.5
+  },
+  {
+   "id": 1228245108,
+   "name": "",
+   "A": 20,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 12.8
+  },
+  {
+   "id": 1228901200,
+   "name": "",
+   "A": 20,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 20.1
+  },
+  {
+   "id": 1229857180,
+   "name": "",
+   "A": 18,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 3.2
+  },
+  {
+   "id": 1212188614,
+   "name": "",
+   "A": 18,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 6.4
+  },
+  {
+   "id": -4061227,
+   "name": "Raekoda",
+   "A": 17,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 31.8
+  },
+  {
+   "id": -4061228,
+   "name": "Raekoda",
+   "A": 17,
+   "hsrc": "tag",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 28.2
+  },
+  {
+   "id": 1229501550,
+   "name": "",
+   "A": 15,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "gabled",
+   "h": 6.4
+  },
+  {
+   "id": 1207807791,
+   "name": "",
+   "A": 14,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "hipped",
+   "h": 3.5
+  },
+  {
+   "id": 1212188612,
+   "name": "",
+   "A": 13,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 3.2
+  },
+  {
+   "id": 28131331,
+   "name": "",
+   "A": 10,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 3.2
+  },
+  {
+   "id": 1229857178,
+   "name": "",
+   "A": 9,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 9.6
+  },
+  {
+   "id": 713309365,
+   "name": "Pühavaimu kirik",
+   "A": 9,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 22
+  },
+  {
+   "id": 201040655,
+   "name": "",
+   "A": 8,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 3.5
+  },
+  {
+   "id": 1229501548,
+   "name": "",
+   "A": 8,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 16
+  },
+  {
+   "id": 713309375,
+   "name": "Pühavaimu kirik",
+   "A": 7,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 22
+  },
+  {
+   "id": 1207807787,
+   "name": "",
+   "A": 6,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 17
+  },
+  {
+   "id": 28131878,
+   "name": "",
+   "A": 5,
+   "hsrc": "default",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 3.5
+  },
+  {
+   "id": 1229726935,
+   "name": "",
+   "A": 4,
+   "hsrc": "levels",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 3.2
+  },
+  {
+   "id": 1197344425,
+   "name": "",
+   "A": 4,
+   "hsrc": "parent",
+   "rsrc": "heuristic",
+   "rs": "flat",
+   "h": 16
+  }
+ ]
+}
